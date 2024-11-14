@@ -22,7 +22,7 @@ function Hero() {
             <p className='pt-4 pb-8 md:pt-6 md-pb-12 max-w-[480px] text-xl text-center lg:text-center'>
               Crafting scalable and efficient backend services while ensuring seamless integration with front-end systems for optimal user experience and performance.
             </p>
-          <button className='btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all rounded-xl'><Link to="https://www.linkedin.com/in/noel-guillen-blas-b63353257/">Reach out to me</Link></button>
+          <button className='btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all rounded-xl'><Link to="https://www.linkedin.com/in/robert-martin719/">Reach out to me</Link></button>
         </div>
         </div>
       </div>
