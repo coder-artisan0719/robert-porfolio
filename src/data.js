@@ -184,7 +184,7 @@ export const projectsData = [
     image: hca,
     name: "HCA Healthcare",
     category: ".NET, Azure, PostgreSQL, GraphQL",
-    url: "https://https://hcahealthcare.com/",
+    url: "https://hcahealthcare.com/",
   },
   {
     id: "2",
