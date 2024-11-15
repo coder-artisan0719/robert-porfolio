@@ -115,7 +115,7 @@ export const navigation = [
 export const social = [
   {
     icon: <FiLinkedin />,
-    href: "https://www.linkedin.com/in/noel-guillen-blas-b63353257/",
+    href: "https://www.linkedin.com/in/robert-martin719",
   },
   {
     icon: <FiGithub />,
@@ -423,7 +423,7 @@ export const testimonials = [
   {
     authorImg: TestiImage3,
     authorText:
-      "What truly sets Noel apart is his ability to tackle challenges head-on. He approached each project with a combination of creativity and analytical thinking, consistently producing exceptional results.I am confident in Noels ability to thrive and create a positive impact wherever he chooses to go. I wholeheartedly recommend him to any organization seeking a dedicated, innovative, and dynamic individual.",
+      "What truly sets Robert apart is his ability to tackle challenges head-on. He approached each project with a combination of creativity and analytical thinking, consistently producing exceptional results.I am confident in Robert ability to thrive and create a positive impact wherever he chooses to go. I wholeheartedly recommend him to any organization seeking a dedicated, innovative, and dynamic individual.",
     authorName: "Allan Ahmed",
     authorPosition: "Web Developer & Coding Instructor, Mimo",
     link: "https://www.linkedin.com/in/allan-ahmed/",
@@ -439,7 +439,7 @@ export const testimonials = [
   {
     authorImg: TestImage4,
     authorText:
-      "Noel takes a careful, conscientious approach to software development. In his capacity as a frontend developer at my company, he has been put in situations where he not only had to build new features, but has had to implement those features in technologies new to him. He researches well, he asks the right questions and he writes good code! In addition to strong technical skills, Noels great soft skills make it a pleasure to work with him. He is patient, listens well and is always willing to lend a hand. I say with confidence - speaking from experience - that Noel would make a solid hire",
+      "Robert takes a careful, conscientious approach to software development. In his capacity as a backend developer at my company, he has been put in situations where he not only had to build new features, but has had to implement those features in technologies new to him. He researches well, he asks the right questions and he writes good code! In addition to strong technical skills, Robert great soft skills make it a pleasure to work with him. He is patient, listens well and is always willing to lend a hand. I say with confidence - speaking from experience - that Robert would make a solid hire",
     authorName: "Byron Holmes",
     authorPosition: "CTO at Sench Systems and Instructor at Fullstack Academy",
     link: "https://www.linkedin.com/in/byron-h-512030175/",
@@ -447,7 +447,7 @@ export const testimonials = [
   {
     authorImg: TestImage5,
     authorText:
-      "Noel's technical expertise is complemented by his patience and willingness to help others. Whenever I encountered challenges or hit roadblocks in my coding projects, Noel was consistently there to provide guidance and solutions. One of his remarkable qualities is his ability to simplify complex code syntax and concepts, making them understandable. His mentorship has enhanced my coding skills and deepened my comprehension of the underlying principles.",
+      "Robert's technical expertise is complemented by his patience and willingness to help others. Whenever I encountered challenges or hit roadblocks in my coding projects, Robert was consistently there to provide guidance and solutions. One of his remarkable qualities is his ability to simplify complex code syntax and concepts, making them understandable. His mentorship has enhanced my coding skills and deepened my comprehension of the underlying principles.",
     authorName: "Tina Nguyen",
     authorPosition: "Self Taught Front-End Developer",
     link: "https://www.linkedin.com/in/tina-ngu/",
@@ -455,7 +455,7 @@ export const testimonials = [
   {
     authorImg: TestiImage1,
     authorText:
-      "Based on my experience mentoring Noel, I wholeheartedly recommend him for any front-end development position. His combination of technical skills, dedication, and creativity make him an invaluable asset to any team. I am confident that he will continue to excel in his career and contribute significantly to the field of front-end development.",
+      "Based on my experience mentoring Robert, I wholeheartedly recommend him for any .NET development position. His combination of technical skills, dedication, and creativity make him an invaluable asset to any team. I am confident that he will continue to excel in his career and contribute significantly to the field of back-end development.",
     authorName: "Kelsey Jackson",
     authorPosition: "Web Developer & Coding Mentor, Mimo",
     link: "https://www.linkedin.com/in/kelsey-jackson-22b098256/",
@@ -475,7 +475,7 @@ export const contact = [
     icon: <FiMail />,
     title: "Have a question?",
     subtitle: "I am here to help you.",
-    description: "Email me at noelguillenblas@gmail.com",
+    description: "Email me at robert.m071916@gmail.com",
   },
   {
     icon: <FiMapPin />,
