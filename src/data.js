@@ -119,7 +119,7 @@ export const social = [
   },
   {
     icon: <FiGithub />,
-    href: "https://github.com/coderArtisan0719",
+    href: "https://github.com/robert-martin313/",
   },
   {
     icon: <FiPhone />,

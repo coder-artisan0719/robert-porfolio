@@ -75,13 +75,10 @@ function NavMobile() {
         })
       }
       <li className='p-2'>
-      <a href="https://github.com/1uckyswish" className='text-xl cursor-pointer capitalize text-black' target="_blank" rel="noreferrer">Github</a>
+      <a href="https://github.com/robert-martin313/" className='text-xl cursor-pointer capitalize text-black' target="_blank" rel="noreferrer">Github</a>
       </li>
           <li className='p-2'>
-      <a href="https://www.linkedin.com/in/noel-guillen-blas-b63353257/" className='text-xl cursor-pointer capitalize text-black' target="_blank" rel="noreferrer">Linkedin</a>
-      </li>
-          <li className='p-2'>
-      <a href="https://www.codewars.com/users/NoelGuillen" className='text-xl cursor-pointer capitalize text-black' target="_blank" rel="noreferrer">CodeWars</a>
+      <a href="https://www.linkedin.com/in/robert-martin719/" className='text-xl cursor-pointer capitalize text-black' target="_blank" rel="noreferrer">Linkedin</a>
       </li>
       </motion.ul>
     </nav>
