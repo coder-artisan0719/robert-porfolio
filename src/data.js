@@ -131,12 +131,6 @@ export const social = [
   },
   //   icon: <SiCodewars />,
   //   href: "https://www.codewars.com/users/NoelGuillen",
-  // 🚩As I mentioned already, we are facing with some problems for transactions. The my concern is that the reason should be clear to transfer funds. So please create skype with broker name, and we will meed for your service coinsidently.
-  // As a broker, your responsiblity will be handling drug test, laptop delivery and US resource proxy for US jobs.
-  // I need drug test from you and you will ask me 1500 for that.
-  // And you need to make a deal for proceeding it in 2 - 3 days. After some chat to you, and will send you payment.
-  // After that, please block me on your new skype and let's discuss on your old skype. Actually, there are some my partners to do this stuff with high ratio, but I value security and trust. Please make sure be careful and arrive it soon. Thank you 😍
-  // Let's go ahead this way later.
 
   //
   // {
